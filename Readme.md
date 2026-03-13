@@ -2,7 +2,7 @@
 
 <!-- Insert a pipeline of your algorithm here if got one -->
 <div align="center">
-    <a href="https://"><img width="1000px" height="auto" src="https://github.com/Shentl/SAR2Net/blob/main/img/pipeline.png"></a>
+    <a href="https://"><img width="1000px" height="auto" src="img/pipeline.png"></a>
 </div>
 
 ## Main Requirements
